@@ -6,7 +6,7 @@
 
 💻 Major in Computer Science.
 
-:heart: Deep love for programming and literature.
+💕: Deep love for programming and literature.
 
 🛠️ A convinced communist for a better tomorrow.
 
