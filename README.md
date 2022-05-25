@@ -17,7 +17,10 @@
 
 ## More about my coding life
 
-![AryCra_07's Github Stats](https://github-readme-stats.vercel.app/api?username=AryCra07&count_private=true&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
+![AryCra_07's Github Stats](https://github-readme-stats.vercel.app/api?username=AryCra07&theme=swift&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![images](https://user-images.githubusercontent.com/90101071/169969031-bde9e7e6-e8a1-4c82-a1bc-4a4cb8b66858.jpg)
 
+<!-- &bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB -->
