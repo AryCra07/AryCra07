@@ -1,7 +1,5 @@
-### Hey there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
-<!--
-![](https://visitor-badge.glitch.me/badge?page_id=AryCra07.AryCra07)
- -->
+### Hey there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> 
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=AryCra07.AryCra07) -->
 <h2 align=center>Who am I?</h2>
 <p align=center>
 🏫 Undergraduate from Beijing University of Posts and Telecommunications.
@@ -18,7 +16,10 @@
 
 <h2 align=center>How to reach me?</h2>
 <p align=center>
-👬 Welcome to further contact me through email 703810491@qq.com or arycra_07@bupt.edu.cn
+💬 Ask me about anything [here](https://github.com/AryCra07/AryCra07/issues)
+</p>
+<p align=center>
+👬 Welcome to further contact me through email arycra_07@bupt.edu.cn
 </p>
 
 <h2 align=center>More about my coding life</h2>
@@ -31,9 +32,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact" width=500px>
 </p>
 
+<p align=center>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>
+<code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/CLion.jpg"></code>  
+<code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/IntelliJ.jpg"></code>
+<code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/VSC.png"></code>
+</p>
+
 <p align="center">
-  <strong>Check out my work below!</strong>
-  <br><br>
     <img src="https://badges.pufler.dev/visits/AryCra07/AryCra07?style=flat-square&color=black&logo=github">
     <img src="https://badges.pufler.dev/years/AryCra07?style=flat-square&color=black&logo=github">
     <img src="https://badges.pufler.dev/repos/AryCra07?style=flat-square&color=black&logo=github">
