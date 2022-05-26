@@ -16,7 +16,7 @@
 
 <h2 align=center>How to reach me?</h2>
 <p align=center>
-💬 Ask me about anything [here](https://github.com/AryCra07/AryCra07/issues)
+ 💬 Ask me about anything <a href="https://github.com/AryCra07/AryCra07/issues">here</a>
 </p>
 <p align=center>
 👬 Welcome to further contact me through email arycra_07@bupt.edu.cn
