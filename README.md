@@ -27,7 +27,7 @@
 
 <h2 align=center>More about my coding life</h2>
 
-|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&theme=swift&bg_color=white&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact&theme=buefy&hide_border=true" />|
+|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=white&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact&theme=tokyonight&hide_border=true&bg_color=white" />|
 | ------------- | ------------- |
 
 <p align=center>
