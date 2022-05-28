@@ -30,6 +30,35 @@
 |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=white&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact&theme=tokyonight&hide_border=true&bg_color=white" />|
 | ------------- | ------------- |
 
+
+ <h3> Some of My Projects </h3>
+<table>
+ <th>
+<a href="https://github.com/AryCra07/busDispatchingSystem">
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AryCra07&repo=busDispatchingSystem&theme=tokyonight&bg_color=fff&hide_border=true" alt="busDispatchingSystem"></a>
+</th>
+ <th>
+<a href="https://github.com/AryCra07/ATMSystemByJava">
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AryCra07&repo=ATMSystemByJava&theme=tokyonight&bg_color=fff&hide_border=true" alt="ATMSystemByJava"></a>
+</th>
+ </table>
+ 
+<p align="left">
+  <a href="https://github.com/AryCra07?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+
+ <h3> Contributed to </h3>
+
+<table>
+ <thead>
+  <th>
+<a href="https://github.com/FA555/ProgrammingHomework">
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FA555&repo=ProgrammingHomework&theme=tokyonight&bg_color=fff&hide_border=true" alt="ProgrammingHomework"></a>
+  </th>
+ </thead>
+</table>
+
 <p align=center>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
