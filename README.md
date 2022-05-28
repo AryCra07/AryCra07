@@ -11,7 +11,7 @@
  👨‍🔬 <a href="https://www.16personalities.com/intj-personality">INTJ</a> personality, but not that cold.
 </p>
 <p align=center>
-💕 Deep love for programming and literature.
+❤️ Deep love for programming and literature.
 </p>
 <p align=center>
 🛠️ A convinced believer in open-source for a better tomorrow.
