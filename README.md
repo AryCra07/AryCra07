@@ -59,7 +59,7 @@
  </thead>
 </table>
 
-<p align=center>
+<!-- <p align=center>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
@@ -67,7 +67,7 @@
 <code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/CLion.jpg"></code>  
 <code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/IntelliJ.jpg"></code>
 <code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/VSC.png"></code>
-</p>
+</p> -->
 
 <p align="center">
     <img src="https://badges.pufler.dev/visits/AryCra07/AryCra07?style=flat-square&color=red&logo=github">
