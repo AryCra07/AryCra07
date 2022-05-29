@@ -14,7 +14,7 @@
 ❤️ Deep love for programming and literature.
 </p>
 <p align=center>
-🛠️ A convinced believer in open-source, for a better tomorrow.
+🛠️ A convinced believer in open-source, for a better world.
  </p>
 
 <h2 align=center>How to reach me?</h2>
