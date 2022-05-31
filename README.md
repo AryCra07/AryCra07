@@ -70,10 +70,10 @@
 </p> -->
 
 <p align="center">
-    <img src="https://badges.pufler.dev/visits/AryCra07/AryCra07?style=flat-square&color=blue&logo=github">
-    <img src="https://badges.pufler.dev/years/AryCra07?style=flat-square&color=blue&logo=github">
-    <img src="https://badges.pufler.dev/repos/AryCra07?style=flat-square&color=blue&logo=github">
-    <img src="https://badges.pufler.dev/commits/monthly/AryCra07?style=flat-square&color=blue&logo=github">
+    <img src="https://badges.pufler.dev/visits/AryCra07/AryCra07?style=flat-square&color=red&logo=github">
+    <img src="https://badges.pufler.dev/years/AryCra07?style=flat-square&color=red&logo=github">
+    <img src="https://badges.pufler.dev/repos/AryCra07?style=flat-square&color=red&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/AryCra07?style=flat-square&color=red&logo=github">
 </p>
 
 
