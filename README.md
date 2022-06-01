@@ -68,14 +68,18 @@
 <code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/VSC.png"></code>
 </p> -->
 
+<p align=center>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=AryCra07&column=8&theme=flat&no-frame=true"/>
+</a>
+ </p>
+
 <p align="center">
     <img src="https://badges.pufler.dev/visits/AryCra07/AryCra07?style=flat-square&color=red&logo=github">
     <img src="https://badges.pufler.dev/years/AryCra07?style=flat-square&color=red&logo=github">
     <img src="https://badges.pufler.dev/repos/AryCra07?style=flat-square&color=red&logo=github">
     <img src="https://badges.pufler.dev/commits/monthly/AryCra07?style=flat-square&color=red&logo=github">
 </p>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AryCra07)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <img src="https://img.shields.io/badge/python-2.9-orange"> -->
