@@ -55,6 +55,11 @@
 <a href="https://github.com/FA555/ProgrammingHomework">
     <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FA555&repo=ProgrammingHomework&theme=tokyonight&bg_color=fff&hide_border=true" alt="ProgrammingHomework"></a>
   </th>
+  <th>
+   <a href="https://github.com/brupst/awesome-bupt-scs">
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brupst&repo=awesome-bupt-scs&theme=tokyonight&bg_color=fff&hide_border=true" alt="ProgrammingHomework">
+   </a>
+  </th>
  </thead>
 </table>
 
