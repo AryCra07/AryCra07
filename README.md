@@ -73,12 +73,6 @@
 <code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/VSC.png"></code>
 </p> -->
 
-<p align=center>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=AryCra07&column=8&theme=flat&no-frame=true"/>
-</a>
- </p>
-
 <p align="center">
     <img src="https://badges.pufler.dev/visits/AryCra07/AryCra07?style=flat-square&color=blue&logo=github">
     <img src="https://badges.pufler.dev/years/AryCra07?style=flat-square&color=blue&logo=github">
