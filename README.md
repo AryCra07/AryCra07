@@ -74,12 +74,12 @@
 </p> -->
 
 <p align="center">
-    <img src="https://badges.pufler.dev/visits/AryCra07/AryCra07?style=flat-square&color=blue&logo=github">
-    <img src="https://badges.pufler.dev/years/AryCra07?style=flat-square&color=blue&logo=github">
     <img src="https://badges.pufler.dev/repos/AryCra07?style=flat-square&color=blue&logo=github">
     <img src="https://badges.pufler.dev/commits/monthly/AryCra07?style=flat-square&color=blue&logo=github">
 </p>
 
+<!-- <img src="https://badges.pufler.dev/visits/AryCra07/AryCra07?style=flat-square&color=blue&logo=github"> -->
+<!-- <img src="https://badges.pufler.dev/years/AryCra07?style=flat-square&color=blue&logo=github"> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <img src="https://img.shields.io/badge/python-2.9-orange"> -->
 <!-- ![AryCra_07's Github Stats](https://github-readme-stats.vercel.app/api?username=AryCra07&theme=swift&show_icons=true) -->
