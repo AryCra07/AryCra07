@@ -32,6 +32,10 @@
 
  <h3> Some of My Projects </h3>
 <table>
+<th>
+<a href="https://github.com/AryCra07/AryCra07.github.io">
+    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AryCra07&repo=ArmYourBot&theme=tokyonight&bg_color=fff&hide_border=true" alt="Arm Your Bot"></a>
+</th>
  <th>
 <a href="https://github.com/AryCra07/AryCra07.github.io">
     <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AryCra07&repo=AryCra07.github.io&theme=tokyonight&bg_color=fff&hide_border=true" alt="AryCra07's blog"></a>
