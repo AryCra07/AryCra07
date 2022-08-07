@@ -1,10 +1,10 @@
 ### Hey there 👋:
 <h2 align=center>Who am I?</h2>
 <p align=center>
-🏫 Undergraduate from Beijing University of Posts and Telecommunications.
+🏫 Undergraduate from <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>.
 </p>
 <p align=center>
-💻 Major in Computer Science.
+💻 Major in <a href="https://scs.bupt.edu.cn/">Computer Science</a>.
 </p>
 <p align=center>
  👨‍🔬 <a href="https://www.16personalities.com/intj-personality">INTJ</a> personality, but not that cold.
