@@ -21,7 +21,7 @@
  💬 Be free to ask me about anything <a href="https://github.com/AryCra07/AryCra07/issues">here</a>
 </p>
 <p align=center>
-👬 Welcome to further contact me through QQ 703810491
+:penguin: Welcome to further contact me through QQ 703810491
 </p>
 
 <h2 align=center>More about my coding life</h2>
