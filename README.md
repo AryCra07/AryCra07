@@ -24,7 +24,7 @@
 - :computer: Working hard for an awesome project——Arm Your Bot.
 - :dove: Will develop the front end of another project, in the near future.
 
-### My Skill Set  
+### My Skill Basket
 <table><tr><td valign="top" width="33%">
 
 
