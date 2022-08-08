@@ -1,36 +1,84 @@
 ### Hey there 👋:
-<h2 align=center>Who am I?</h2>
-<p align=center>
+
+## Who am I?
+
+
 🏫 Undergraduate from <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>.
-</p>
-<p align=center>
+
 💻 Major in <a href="https://scs.bupt.edu.cn/">Computer Science</a>.
-</p>
-<p align=center>
- 👨‍🔬 <a href="https://www.16personalities.com/intj-personality">INTJ</a> personality, but not that cold.
-</p>
-<p align=center>
-❤️ Deep love for programming and literature.
-</p>
-<p align=center>
-🛠️ A convinced believer in open-source, for a better world.
- </p>
 
-<h2 align=center>How to reach me?</h2>
-<p align=center>
+❤️ Deep love for programming and open source, for a better world.
+
+## How to reach me?
+
  💬 Be free to ask me about anything <a href="https://github.com/AryCra07/AryCra07/issues">here</a>
-</p>
-<p align=center>
+ 
 :penguin: Welcome to further contact me through QQ 703810491
-</p>
 
-<h2 align=center>More about my coding life</h2>
 
-|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=white&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact&theme=tokyonight&hide_border=true&bg_color=white" />|
+
+## More about my coding life
+
+- 🌱 Still growing, need time to strengthen my skills and participate in more projects.
+- :rocket: Ambitious to be a full stack developer.
+- :computer: Working hard for an awesome project——Arm Your Bot.
+- :dove: Will develop the front end of another project, in the near future.
+
+### My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+#### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+#### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+#### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+</div>
+
+</td></tr></table>  
+
+### My stats
+
+|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&theme=swift&count_private=true&bg_color=white&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact&theme=tokyonight&hide_border=true&bg_color=white" />|
 | ------------- | ------------- |
 
 
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=AryCra07&&style=flat-square">
+<img src="https://badges.pufler.dev/repos/AryCra07?style=flat-square&color=blue&logo=github">
+<img src="https://badges.pufler.dev/commits/monthly/AryCra07?style=flat-square&color=blue&logo=github">
+</p>
 
 <!--
 <h3> Some of My Projects </h3>
@@ -83,11 +131,6 @@
 <code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/IntelliJ.jpg"></code>
 <code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/VSC.png"></code>
 </p> -->
-
-<p align="center">
-    <img src="https://badges.pufler.dev/repos/AryCra07?style=flat-square&color=blue&logo=github">
-    <img src="https://badges.pufler.dev/commits/monthly/AryCra07?style=flat-square&color=blue&logo=github">
-</p>
 
 <!-- <img src="https://badges.pufler.dev/visits/AryCra07/AryCra07?style=flat-square&color=blue&logo=github"> -->
 <!-- <img src="https://badges.pufler.dev/years/AryCra07?style=flat-square&color=blue&logo=github"> -->
