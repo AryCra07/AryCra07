@@ -13,7 +13,7 @@
 
  💬 Be free to ask me about anything <a href="https://github.com/AryCra07/AryCra07/discussions">here</a>.
  
-:penguin: Welcome to further contact me through [telegram](https://t.me/AryCra_07).
+:bomb: Welcome to further contact me through [telegram](https://t.me/AryCra_07).
 
 
 
