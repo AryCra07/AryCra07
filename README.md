@@ -11,9 +11,9 @@
 
 ## How to reach me?
 
- 💬 Be free to ask me about anything <a href="https://github.com/AryCra07/AryCra07/discussions">here</a>
+ 💬 Be free to ask me about anything <a href="https://github.com/AryCra07/AryCra07/discussions">here</a>.
  
-:penguin: Welcome to further contact me through QQ 703810491
+:penguin: Welcome to further contact me through [telegram](https://t.me/AryCra_07).
 
 
 
