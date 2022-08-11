@@ -73,12 +73,13 @@
 |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&theme=swift&count_private=true&bg_color=white&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact&theme=tokyonight&hide_border=true&bg_color=white" />|
 | ------------- | ------------- |
 
-
+<!--
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AryCra07&&style=flat-square">
 <img src="https://badges.pufler.dev/repos/AryCra07?style=flat-square&color=blue&logo=github">
 <img src="https://badges.pufler.dev/commits/monthly/AryCra07?style=flat-square&color=blue&logo=github">
 </p>
+-->
 
 <!--
 <h3> Some of My Projects </h3>
