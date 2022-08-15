@@ -5,7 +5,7 @@
 - [ ] Finish the project **ArmYourBot**.
 - [ ] Finish the notes&labs of **fantastiCSAPP**.
 - [ ] Develop a project in Rust.
-- [ ] Develop a project using Vue.
+- [ ] Develop a project using with Front&Back end frame.
 
 ## Who am I?
 
