@@ -1,4 +1,11 @@
-### Hey there 👋:
+### Hey there 👋
+
+2022 Autumn&Winter To Do List:
+
+- [ ] Finish the project **ArmYourBot**.
+- [ ] Finish the notes&labs of **fantastiCSAPP**.
+- [ ] Develop a project in Rust.
+- [ ] Develop a project using Vue.
 
 ## Who am I?
 
