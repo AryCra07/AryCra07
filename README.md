@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-2022 Autumn&Winter To Do List:
+<!-- 2022 Autumn&Winter To Do List: -->
 
 <!-- - [ ] Finish the project **ArmYourBot**.
 - [ ] Finish the notes&labs of **fantastiCSAPP**.
