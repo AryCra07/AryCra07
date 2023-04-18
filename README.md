@@ -28,8 +28,6 @@
 
 - 🌱 Still growing, need time to strengthen my skills and participate in more projects.
 - :rocket: Ambitious to be a full stack developer.
-- :computer: Working hard for an awesome project——Arm Your Bot.
-- :dove: Will develop the front end of another project, in the near future.
 
 ### My Skill Stack & Push Plan
 <table><tr><td valign="top" width="33%">
