@@ -76,7 +76,7 @@
 
 ### My stats
 
-|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&theme=graywhite&count_private=true&bg_color=white&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact&theme=graywhite&hide_border=true&bg_color=white" />|
+|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&theme=vue&count_private=true&bg_color=white&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact&theme=vue&hide_border=true&bg_color=white" />|
 | ------------- | ------------- |
 
 <!--
