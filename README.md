@@ -10,27 +10,25 @@
 ## Who am I?
 
 
-🏫 Undergraduate from <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>.
+- 🏫 Undergraduate from Beijing University of Posts and Telecommunications</a>.
+- 💻 Major in Computer Science.
+- ❤️ Deep love for programming and open source, for a better world.
 
-💻 Major in <a href="https://scs.bupt.edu.cn/">Computer Science</a>.
-
-❤️ Deep love for programming and open source, for a better world.
-
-## How to reach me?
+<!-- ## How to reach me?
 
  💬 Be free to ask me about anything <a href="https://github.com/AryCra07/AryCra07/discussions">here</a>.
  
-:bomb: Welcome to further contact me through [telegram](https://t.me/AryCra_07).
+:bomb: Welcome to further contact me through [telegram](https://t.me/AryCra_07). -->
 
 
 
-## More about my coding life
+## About my coding life
 
-- 🌱 Still growing, need time to strengthen my skills and participate in more projects.
-- :rocket: Ambitious to be a full stack developer.
+- :rocket: Learning Vue and SpringBoot, ambitious to be a full-stack developer.
+- 🌱 Intersted in Cloud Computing.
 
-### My Skill Stack & Push Plan
-<table><tr><td valign="top" width="33%">
+### My Skill Stack
+<table><tr><td valign="top" width="50%">
 
 
 #### Frontend  
@@ -43,7 +41,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -60,7 +58,8 @@
 <!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />   -->
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+<!--  <td valign="top" width="50%">
 
 
 
@@ -72,7 +71,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
 </div>
 
-</td></tr></table>  
+</td> -->
+ </tr></table>  
 
 ### My stats
 
