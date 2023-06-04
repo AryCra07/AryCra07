@@ -1,11 +1,10 @@
 ### Hey there 👋
 
-<!-- 2022 Autumn&Winter To Do List: -->
+This year I want to do:
 
-<!-- - [ ] Finish the project **ArmYourBot**.
-- [ ] Finish the notes&labs of **fantastiCSAPP**.
-- [ ] Develop a project in Rust.
-- [ ] Develop a project using with Front&Back end frame. -->
+- [x] finish my [hardware projects](https://github.com/AryCra07/TougHardware) of course
+- [ ] develop a DNS-relay server in Network course
+- [ ] develop a mini OS in rust
 
 ## Who am I?
 
