@@ -2,7 +2,7 @@
 
 This year I want to do:
 
-- [x] finish my [hardware projects](https://github.com/AryCra07/TougHardware) of course
+- [x] finish [Hardware-projects](https://github.com/AryCra07/TougHardware)
 - [ ] develop a DNS-relay server in Network course
 - [ ] develop a mini OS in rust
 
@@ -75,7 +75,7 @@ This year I want to do:
 
 ### My stats
 
-|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&hide=html,css&layout=compact&hide_border=true" />|
+|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&theme=bufey&include_all_commits=true&count_private=true&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&hide=html,css&layout=compact&hide_border=true" />|
 | ------------- | ------------- |
 
 
