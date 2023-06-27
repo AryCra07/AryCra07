@@ -2,8 +2,8 @@
 
 This year I want to do:
 
-- [x] finish [Hardware-projects](https://github.com/AryCra07/TougHardware)
-- [ ] develop a DNS-relay server in Network course
+- [x] finish [Hardware Projects](https://github.com/AryCra07/TougHardware)
+- [x] develop a [DNS Server](https://github.com/AryCra07/GoDNS)
 - [ ] develop a mini OS in rust
 
 ## Who am I?
