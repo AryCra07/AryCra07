@@ -75,7 +75,7 @@ This year I want to do:
 
 ### My stats
 
-|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&hide=html,css&layout=compact&hide_border=true&theme=bufey" />|
+|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&theme=buefy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&hide=html,css&layout=compact&hide_border=true&theme=light" />|
 | ------------- | ------------- |
 
 
