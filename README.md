@@ -4,7 +4,7 @@ This year I want to do:
 
 - [x] finish [Hardware Projects](https://github.com/AryCra07/TougHardware)
 - [x] develop a [DNS Server](https://github.com/AryCra07/GoDNS)
-- [ ] develop a map website to plan Home-Work Traffic.
+- [x] develop a map website to plan Home-Work Traffic.
 - [ ] develop a mini OS in rust
 
 ## Who am I?
@@ -76,7 +76,7 @@ This year I want to do:
 
 ### My stats
 
-|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&hide=html,css&layout=compact&theme=vue&hide_border=true" />|
+|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&count_private=true&theme=garywhite&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&hide=html,css&layout=compact&theme=vue&hide_border=true" />|
 | ------------- | ------------- |
 
 
