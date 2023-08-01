@@ -4,7 +4,7 @@ This year I want to do:
 
 - [x] finish [Hardware Projects](https://github.com/AryCra07/TougHardware)
 - [x] develop a [DNS Server](https://github.com/AryCra07/GoDNS)
-- [x] develop a map website to plan Home-Work Traffic.
+- [x] develop a [SaaS application](https://github.com/Spike618/SWS2023-Home-Work-Traffic) to plan Home-Work Traffic.
 - [ ] develop a mini OS in rust
 
 ## Who am I?
@@ -24,8 +24,8 @@ This year I want to do:
 
 ## About my coding life
 
-- :rocket: Learning Vue and SpringBoot, ambitious to be a full-stack developer.
-- 🌱 Intersted in Cloud Computing.
+- :rocket: Ambitious to be a full-stack developer.
+- ☁️ Intersted in Cloud Computing.
 
 ### My Skill Stack
 <table><tr><td valign="top" width="50%">
