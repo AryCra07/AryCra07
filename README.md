@@ -1,11 +1,10 @@
 ### Hey there 👋
 
-This year I want to do:
+This year I've achieved:
 
-- [x] finish [Hardware Projects](https://github.com/AryCra07/TougHardware)
+- [x] develop [Hardware Projects](https://github.com/AryCra07/TougHardware)
 - [x] develop a [DNS Server](https://github.com/AryCra07/GoDNS)
 - [x] develop a [SaaS application](https://github.com/Spike618/SWS2023-Home-Work-Traffic) to plan Home-Work Traffic.
-- [ ] develop a mini OS in rust
 
 ## Who am I?
 
