@@ -6,6 +6,8 @@ This year I've achieved:
 - [x] develop a [DNS Server](https://github.com/AryCra07/GoDNS)
 - [x] develop a [SaaS application](https://github.com/Spike618/SWS2023-Home-Work-Traffic) to plan Home-Work Traffic.
 
+I am working on CS143 currently.
+
 ## Who am I?
 
 
@@ -74,7 +76,7 @@ This year I've achieved:
 
 ### My stats
 
-|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&count_private=true&theme=garywhite&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&hide=html,css&layout=compact&theme=vue&hide_border=true" />|
+|<img width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=AryCra07&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true" alt="AryCra07's github stats" /> |<img width=500px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&hide=html,css,jupyter%20notebook&layout=compact&theme=vue&hide_border=true" />|
 | ------------- | ------------- |
 
 
