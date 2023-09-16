@@ -10,69 +10,56 @@ I am working on CS143 currently.
 
 ## Who am I?
 
-
 - 🏫 Undergraduate from Beijing University of Posts and Telecommunications</a>.
 - 💻 Major in Computer Science.
 - ❤️ Deep love for programming and open source, for a better world.
-
-<!-- ## How to reach me?
-
- 💬 Be free to ask me about anything <a href="https://github.com/AryCra07/AryCra07/discussions">here</a>.
- 
-:bomb: Welcome to further contact me through [telegram](https://t.me/AryCra_07). -->
-
-
+- 💡 &nbsp;INTJ-A.
 
 ## About my coding life
 
-- :rocket: Ambitious to be a full-stack developer.
+- 🚀 Ambitious to be a full-stack developer.
 - ☁️ Intersted in Cloud Computing.
 
 ### My Skill Stack
-<table><tr><td valign="top" width="33%">
+<table>
+ <tr>
+  <td valign="top" width="33%">
+   <h4>Frontend</h4>
+   <div align="center">  
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+    <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+    <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+    <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
+    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+   </div>
+  </td>
+  
+  <td valign="top" width="33%">
+   <h4>Backend</h4>
+   <div align="center">  
+    <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+    <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+    <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+    <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+   </div>
+  </td>
 
-
-#### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />   -->  
-</div>
-
-
-</td><td valign="top" width="33%">
-
-#### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<!-- <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>   -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />   -->
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />   -->
-</div>
-
-</td>
-
-<td valign="top" width="33%">
-
-#### DevOps  
-<div align="center">
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
-</div>
-
-</td>
- </tr></table>  
+  <td valign="top" width="33%">
+   <h4>DevOps</h4>
+   <div align="center">
+    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+    <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+    <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+    <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+   </div>
+  </td>
+ </tr>
+</table>  
 
 ### My stats
 
@@ -80,69 +67,9 @@ I am working on CS143 currently.
 | ------------- | ------------- |
 
 
-<!--
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AryCra07&&style=flat-square">
-<img src="https://badges.pufler.dev/repos/AryCra07?style=flat-square&color=blue&logo=github">
+
+<!-- <p align="center">
+<img src="https://badges.pufler.dev/repos/AryCra07?style=flat-square&color=red&logo=github">
 <img src="https://badges.pufler.dev/commits/monthly/AryCra07?style=flat-square&color=blue&logo=github">
 </p>
 -->
-
-<!--
-<h3> Some of My Projects </h3>
-<table>
-<th>
-<a href="https://github.com/AryCra07/AryCra07.github.io">
-    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AryCra07&repo=ArmYourBot&theme=tokyonight&bg_color=fff&hide_border=true" alt="Arm Your Bot"></a>
-</th>
- <th>
-<a href="https://github.com/AryCra07/AryCra07.github.io">
-    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AryCra07&repo=AryCra07.github.io&theme=tokyonight&bg_color=fff&hide_border=true" alt="AryCra07's blog"></a>
-</th>
- <th>
-<a href="https://github.com/AryCra07/ATMSystemByJava">
-    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AryCra07&repo=ATMSystemByJava&theme=tokyonight&bg_color=fff&hide_border=true" alt="ATMSystemByJava"></a>
-</th>
- </table>
- 
-<p align="left">
-  <a href="https://github.com/AryCra07?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-More%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-
- <h3> Contributed to </h3>
-
-<table>
- <thead>
-  <th>
-<a href="https://github.com/FA555/ProgrammingHomework">
-    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FA555&repo=ProgrammingHomework&theme=tokyonight&bg_color=fff&hide_border=true" alt="ProgrammingHomework"></a>
-  </th>
-  <th>
-   <a href="https://github.com/brupst/awesome-bupt-scs">
-    <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=brupst&repo=awesome-bupt-scs&theme=tokyonight&bg_color=fff&hide_border=true" alt="ProgrammingHomework">
-   </a>
-  </th>
- </thead>
-</table>
--->
-
-
-
-
-<!-- <p align=center>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
-<code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/CLion.jpg"></code>  
-<code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/IntelliJ.jpg"></code>
-<code><img height="20" src="https://github.com/AryCra07/AryCra07/blob/main/img/VSC.png"></code>
-</p> -->
-
-<!-- <img src="https://badges.pufler.dev/visits/AryCra07/AryCra07?style=flat-square&color=blue&logo=github"> -->
-<!-- <img src="https://badges.pufler.dev/years/AryCra07?style=flat-square&color=blue&logo=github"> -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryCra07&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- <img src="https://img.shields.io/badge/python-2.9-orange"> -->
-<!-- ![AryCra_07's Github Stats](https://github-readme-stats.vercel.app/api?username=AryCra07&theme=swift&show_icons=true) -->
-<!-- &bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB -->
