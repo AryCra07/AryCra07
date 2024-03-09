@@ -1,15 +1,6 @@
 ### Hey there 👋
 
-<!--
-
-This year I've achieved:
-
-- [x] develop [Hardware Projects](https://github.com/AryCra07/TougHardware)
-- [x] develop a [DNS Server](https://github.com/AryCra07/NoDNS)
-- [x] develop a [SaaS application](https://github.com/Spike618/SWS2023-Home-Work-Traffic) to plan Home-Work Traffic.
-- [x] develop a [chatbot-DSL](https://github.com/AryCra07/chatbot-DSL)  project.
-
--->
+currently working on miniob
 
 ## Who am I?
 
