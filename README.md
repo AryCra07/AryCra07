@@ -1,7 +1,5 @@
 ### Hey there 👋
 
-currently working on miniob
-
 ## Who am I?
 
 - 🏫 Undergraduate from Beijing University of Posts and Telecommunications.
