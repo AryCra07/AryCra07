@@ -2,16 +2,18 @@
 
 ## Who am I?
 
-- 🏫 Undergraduate from Beijing University of Posts and Telecommunications.
-- 💻 Major in Computer Science.
+- 🏫 Senior from Beijing University of Posts and Telecommunications.
+- 💻 Major in Computer Science and Technology.
 - ❤️ Deep love for programming and open source, for a better world.
 - 💡 &nbsp;INTJ-A.
 
 ## About my coding life
 
 - 🚀 Ambitious to be a full-stack developer.
-- ☁️ Intersted in Cloud Computing.
+- ☁️ Intersted in Cloud Computing/Software/♾️.
+- 💻 Working on backdoor attacks.
 
+<!--
 ### My Skill Stack
 <table>
  <tr>
@@ -52,6 +54,7 @@
   </td>
  </tr>
 </table>  
+-->
 
 ### My stats
 
